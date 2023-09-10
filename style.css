@@ -1,0 +1,12 @@
+#firstcontainer{
+    background-color: blue;
+    color: red;
+}
+
+#secondcontainer{
+    background-color: purple;
+    color: crimson;
+}
+body{
+    background-color: black;
+}
